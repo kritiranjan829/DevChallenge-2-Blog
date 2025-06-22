@@ -21,9 +21,3 @@ This project is a clean, minimal **blog card UI** created using HTML and inline 
 - HTML5
 - CSS3 (inline styling, no external stylesheet or JavaScript)
 
-## 🖼️ Screenshot
-
-![Preview of the Minimal Blog Card](./cactus.jpg)
-
-## 📁 File Structure
-
